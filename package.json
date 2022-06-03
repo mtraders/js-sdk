@@ -1,6 +1,6 @@
 {
   "name": "@mtraders/js-sdk",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Packages for Halo JavaScript SDK.",
   "private": true,
   "scripts": {
@@ -23,14 +23,9 @@
   ],
   "maintainers": [
     {
-      "name": "guqing",
-      "email": "1484563614@qq.com",
-      "url": "https://github.com/guqing"
-    },
-    {
-      "name": "ryanwang",
-      "email": "i@ryanc.cc",
-      "url": "https://github.com/ruibaby"
+      "name": "lizc",
+      "email": "lizc@fists.cn",
+      "url": "https://github.com/mtraders"
     }
   ],
   "author": "@mtraders",
