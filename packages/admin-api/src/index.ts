@@ -1,6 +1,6 @@
 export { AdminApiClient } from './AdminApiClient'
 export { AuthorizedClient } from './AuthorizedClient'
-export * from '@halo-dev/rest-api-client'
+export * from '@mtraders/rest-api-client'
 export * from './clients'
 export {
   UploadOptions,

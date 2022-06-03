@@ -1,5 +1,5 @@
 {
-  "name": "@halo-dev/logger",
+  "name": "@mtraders/logger",
   "version": "1.1.0",
   "description": "Halo SDK for JavaScript - Logger",
   "main": "./lib/index.js",
@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/halo-dev/js-sdk.git",
+    "url": "git+https://github.com/mtraders/js-sdk.git",
     "directory": "packages/logger"
   },
   "keywords": [
@@ -37,12 +37,12 @@
     "typescript",
     "javascript"
   ],
-  "author": "@halo-dev",
+  "author": "@mtraders",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/halo-dev/js-sdk/issues"
+    "url": "https://github.com/mtraders/js-sdk/issues"
   },
-  "homepage": "https://github.com/halo-dev/js-sdk#readme",
+  "homepage": "https://github.com/mtraders/js-sdk#readme",
   "sideEffects": false,
   "dependencies": {
     "tslib": "^2.4.0"
