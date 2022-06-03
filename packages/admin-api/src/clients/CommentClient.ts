@@ -1,4 +1,4 @@
-import { HttpClient } from '@halo-dev/rest-api-client'
+import { HttpClient } from '@mtraders/rest-api-client'
 import {
   BaseComment,
   BaseCommentParam,

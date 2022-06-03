@@ -1,4 +1,4 @@
-# @halo-dev/logger
+# @mtraders/logger
 
 ## 1.1.0
 

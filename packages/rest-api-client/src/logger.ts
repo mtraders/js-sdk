@@ -1,4 +1,4 @@
-import * as Logger from '@halo-dev/logger'
+import * as Logger from '@mtraders/logger'
 
 const logger = Logger.createClientLogger('Rest-Api-Client')
 

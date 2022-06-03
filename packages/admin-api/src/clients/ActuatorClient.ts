@@ -1,4 +1,4 @@
-import { HttpClient } from '@halo-dev/rest-api-client'
+import { HttpClient } from '@mtraders/rest-api-client'
 import { Response } from '../types'
 import { buildPath } from '../url'
 

@@ -1,5 +1,5 @@
 {
-  "name": "@halo-dev/js-sdk",
+  "name": "@mtraders/js-sdk",
   "version": "0.0.0",
   "description": "Packages for Halo JavaScript SDK.",
   "private": true,
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/halo-dev/js-sdk.git"
+    "url": "https://github.com/mtraders/js-sdk.git"
   },
   "keywords": [
     "halo",
@@ -33,12 +33,12 @@
       "url": "https://github.com/ruibaby"
     }
   ],
-  "author": "@halo-dev",
+  "author": "@mtraders",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/halo-dev/js-sdk/issues"
+    "url": "https://github.com/mtraders/js-sdk/issues"
   },
-  "homepage": "https://github.com/halo-dev/js-sdk#readme",
+  "homepage": "https://github.com/mtraders/js-sdk#readme",
   "workspaces": [
     "packages/*"
   ],
