@@ -25,11 +25,6 @@
     "url": "git+https://github.com/mtraders/js-sdk.git",
     "directory": "packages/content-api"
   },
-  "keywords": [
-    "halo",
-    "halo-sdk",
-    "halo-content-api"
-  ],
   "maintainers": [
     {
       "name": "lizc",

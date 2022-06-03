@@ -24,13 +24,6 @@
     "url": "git+https://github.com/mtraders/js-sdk.git",
     "directory": "packages/markdown-renderer"
   },
-  "keywords": [
-    "halo",
-    "halo-sdk",
-    "markdown",
-    "markdown-it",
-    "markdown-renderer"
-  ],
   "maintainers": [
     {
       "name": "lizc",

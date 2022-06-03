@@ -24,12 +24,6 @@
     "lib",
     "index.mjs"
   ],
-  "keywords": [
-    "halo",
-    "rest-api",
-    "api-client",
-    "sdk"
-  ],
   "maintainers": [
     {
       "name": "lizc",
