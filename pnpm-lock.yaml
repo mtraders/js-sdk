@@ -48,18 +48,18 @@ importers:
 
   packages/admin-api:
     specifiers:
-      '@halo-dev/rest-api-client': workspace:*
+      '@mtraders/rest-api-client': workspace:*
       tslib: ^2.4.0
     dependencies:
-      '@halo-dev/rest-api-client': link:../rest-api-client
+      '@mtraders/rest-api-client': link:../rest-api-client
       tslib: 2.4.0
 
   packages/content-api:
     specifiers:
-      '@halo-dev/rest-api-client': workspace:*
+      '@mtraders/rest-api-client': workspace:*
       tslib: ^2.4.0
     dependencies:
-      '@halo-dev/rest-api-client': link:../rest-api-client
+      '@mtraders/rest-api-client': link:../rest-api-client
       tslib: 2.4.0
 
   packages/logger:
@@ -124,7 +124,7 @@ importers:
 
   packages/rest-api-client:
     specifiers:
-      '@halo-dev/logger': workspace:*
+      '@mtraders/logger': workspace:*
       '@types/qs': ^6.9.7
       '@types/store': ^2.0.2
       axios: ^0.24.0
@@ -134,7 +134,7 @@ importers:
       qs: ^6.10.3
       tslib: ^2.4.0
     dependencies:
-      '@halo-dev/logger': link:../logger
+      '@mtraders/logger': link:../logger
       axios: 0.24.0
       form-data: 4.0.0
       js-base64: 3.7.2
@@ -2265,6 +2265,7 @@ packages:
 
   /@types/linkify-it/3.0.2:
     resolution: {integrity: sha512-HZQYqbiFVWufzCwexrvh694SOim8z2d+xJl5UNamcvQFejLY/2YUtzXHYi3cHdI7PMlS8ejH2slRAOJQ32aNbA==}
+    dev: true
 
   /@types/lodash.escape/4.0.7:
     resolution: {integrity: sha512-k6BN7TWKe5rO11yIhMsVh2K9IZ0h9Vfw168/D/+Bv39qCz7vk0WIKTo8OORsah9o1vlDlkUoieAiU8AuYhXpwQ==}
@@ -2281,9 +2282,11 @@ packages:
     dependencies:
       '@types/linkify-it': 3.0.2
       '@types/mdurl': 1.0.2
+    dev: true
 
   /@types/mdurl/1.0.2:
     resolution: {integrity: sha512-eC4U9MlIcu2q0KQmXszyn5Akca/0jrQmwDRgpAMJai7qBWq4amIQhZyNau4VYGtCeALvW1/NtjzJJ567aZxfKA==}
+    dev: true
 
   /@types/minimist/1.2.2:
     resolution: {integrity: sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==}
@@ -2679,6 +2682,7 @@ packages:
       follow-redirects: 1.14.5
     transitivePeerDependencies:
       - debug
+    dev: false
 
   /babel-jest/26.6.3_@babel+core@7.16.0:
     resolution: {integrity: sha512-pl4Q+GAVOHwvjrck6jKjvmGhnO3jHX/xuB9d27f+EJZ/6k+6nMuPjorrYp7s++bKKdANwzElBWnLWaObvTnaZA==}
@@ -4566,6 +4570,7 @@ packages:
     peerDependenciesMeta:
       debug:
         optional: true
+    dev: false
 
   /for-in/1.0.2:
     resolution: {integrity: sha1-gQaNKVqBQuwKxybG4iAMMPttXoA=}

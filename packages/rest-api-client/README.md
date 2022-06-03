@@ -1,17 +1,17 @@
 <h3 align="center">Halo Rest API Client</h3>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/@halo-dev/rest-api-client">
-    <img src="https://img.shields.io/npm/v/@halo-dev/rest-api-client.svg" alt="npm version"/>
+  <a href="https://www.npmjs.com/package/@mtraders/rest-api-client">
+    <img src="https://img.shields.io/npm/v/@mtraders/rest-api-client.svg" alt="npm version"/>
   </a>
-  <a href="https://www.npmjs.com/package/@halo-dev/rest-api-client">
-      <img alt="npm" src="https://img.shields.io/npm/dm/@halo-dev/rest-api-client" alt="Downloads"/>
+  <a href="https://www.npmjs.com/package/@mtraders/rest-api-client">
+      <img alt="npm" src="https://img.shields.io/npm/dm/@mtraders/rest-api-client" alt="Downloads"/>
   </a>
-  <a href="https://github.com/halo-dev/js-sdk/blob/master/packages/rest-api-client/package.json">
-      <img alt="node-current" src="https://img.shields.io/node/v/@halo-dev/rest-api-client?color=blue">
+  <a href="https://github.com/mtraders/js-sdk/blob/master/packages/rest-api-client/package.json">
+      <img alt="node-current" src="https://img.shields.io/node/v/@mtraders/rest-api-client?color=blue">
   </a>
-  <a href="https://github.com/halo-dev/js-sdk/blob/master/LICENSE">
-    <img alt="NPM" src="https://img.shields.io/npm/l/@halo-dev/rest-api-client" alt="LICENSE">
+  <a href="https://github.com/mtraders/js-sdk/blob/master/LICENSE">
+    <img alt="NPM" src="https://img.shields.io/npm/l/@mtraders/rest-api-client" alt="LICENSE">
   </a>
 </p>
 
@@ -20,17 +20,17 @@
 ## Installation
 
 ```shell
-npm install @halo-dev/rest-api-client
+npm install @mtraders/rest-api-client
 ```
 
 use `require` or `import` to import the library.
 
 ```javascript
 // CommonJS
-const { HaloRestAPIClient } = require('@halo-dev/rest-api-client')
+const { HaloRestAPIClient } = require('@mtraders/rest-api-client')
 
 // ES modules
-import { HaloRestAPIClient } from '@halo-dev/rest-api-client'
+import { HaloRestAPIClient } from '@mtraders/rest-api-client'
 ```
 
 ## Usage
@@ -101,7 +101,7 @@ import {
   // FileTokenStore,
   // TokenStore,
   DefaultTokenProvider,
-} from '@halo-dev/rest-clint-api'
+} from '@mtraders/rest-clint-api'
 
 // Use LocalStorageTokenStore to persistence AccessToken to localStorage(in browser only)
 // you can use FileTokenStore if in the Node environment.

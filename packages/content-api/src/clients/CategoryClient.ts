@@ -1,4 +1,4 @@
-import { HttpClient } from '@halo-dev/rest-api-client'
+import { HttpClient } from '@mtraders/rest-api-client'
 import { buildPath } from '../url'
 import { Category, CategoryQuery, Page, PostList, Response } from '../types'
 

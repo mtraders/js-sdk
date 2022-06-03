@@ -1,4 +1,4 @@
-import { FormData, HttpClient } from '@halo-dev/rest-api-client'
+import { FormData, HttpClient } from '@mtraders/rest-api-client'
 import { Response, StaticContentParam, StaticFile, UploadOptions } from '../types'
 import { buildPath } from '../url'
 

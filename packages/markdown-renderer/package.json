@@ -1,5 +1,5 @@
 {
-  "name": "@halo-dev/markdown-renderer",
+  "name": "@mtraders/markdown-renderer",
   "version": "1.1.0",
   "description": "Halo markdown renderer.",
   "main": "lib/markdown-renderer.umd.js",
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/halo-dev/js-sdk.git",
+    "url": "git+https://github.com/mtraders/js-sdk.git",
     "directory": "packages/markdown-renderer"
   },
   "keywords": [
@@ -38,12 +38,12 @@
       "url": "https://github.com/ruibaby"
     }
   ],
-  "author": "@halo-dev",
+  "author": "@mtraders",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/halo-dev/js-sdk/issues"
+    "url": "https://github.com/mtraders/js-sdk/issues"
   },
-  "homepage": "https://github.com/halo-dev/js-sdk/tree/master/packages/markdown-renderer#readme",
+  "homepage": "https://github.com/mtraders/js-sdk/tree/master/packages/markdown-renderer#readme",
   "dependencies": {
     "@iktakahiro/markdown-it-katex": "^4.0.1",
     "lodash.escape": "^4.0.1",

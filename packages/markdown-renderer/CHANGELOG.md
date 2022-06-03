@@ -1,4 +1,4 @@
-# @halo-dev/markdown-renderer
+# @mtraders/markdown-renderer
 
 ## 1.1.0
 

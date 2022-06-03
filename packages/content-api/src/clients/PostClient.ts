@@ -1,4 +1,4 @@
-import { HttpClient } from '@halo-dev/rest-api-client'
+import { HttpClient } from '@mtraders/rest-api-client'
 import { buildPath } from '../url'
 import { BasePostSimple, Page, PageQuery, PostDetail, PostList, Response } from '../types'
 
@@ -26,6 +26,7 @@ export class PostClient {
   public get(
     postId: number,
     params?: {
+      token: string
       formatDisabled: boolean
       sourceDisabled: boolean
     },
