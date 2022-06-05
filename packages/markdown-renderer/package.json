@@ -1,6 +1,6 @@
 {
   "name": "@mtraders/markdown-renderer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Halo markdown renderer.",
   "main": "lib/markdown-renderer.umd.js",
   "module": "lib/markdown-renderer.es.js",
