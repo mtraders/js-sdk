@@ -1,6 +1,6 @@
 {
   "name": "@mtraders/logger",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Halo SDK for JavaScript - Logger",
   "main": "./lib/index.js",
   "module": "./lib/index.js",
