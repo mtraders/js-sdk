@@ -1,6 +1,6 @@
 {
   "name": "@mtraders/logger",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Halo SDK for JavaScript - Logger",
   "main": "./lib/index.js",
   "module": "./lib/index.js",
@@ -28,15 +28,6 @@
     "url": "git+https://github.com/mtraders/js-sdk.git",
     "directory": "packages/logger"
   },
-  "keywords": [
-    "halo",
-    "log",
-    "logger",
-    "logging",
-    "node.js",
-    "typescript",
-    "javascript"
-  ],
   "author": "@mtraders",
   "license": "MIT",
   "bugs": {

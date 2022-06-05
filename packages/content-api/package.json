@@ -1,6 +1,6 @@
 {
   "name": "@mtraders/content-api",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Halo content api client.",
   "main": "lib/index.js",
   "module": "./lib/index.js",
@@ -25,21 +25,11 @@
     "url": "git+https://github.com/mtraders/js-sdk.git",
     "directory": "packages/content-api"
   },
-  "keywords": [
-    "halo",
-    "halo-sdk",
-    "halo-content-api"
-  ],
   "maintainers": [
     {
-      "name": "guqing",
-      "email": "1484563614@qq.com",
-      "url": "https://github.com/guqing"
-    },
-    {
-      "name": "ryanwang",
-      "email": "i@ryanc.cc",
-      "url": "https://github.com/ruibaby"
+      "name": "lizc",
+      "email": "lizc@fists.cn",
+      "url": "https://github.com/mtraders"
     }
   ],
   "author": "@mtraders",

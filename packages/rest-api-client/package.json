@@ -1,6 +1,6 @@
 {
   "name": "@mtraders/rest-api-client",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "publishConfig": {
     "access": "public"
   },
@@ -24,17 +24,11 @@
     "lib",
     "index.mjs"
   ],
-  "keywords": [
-    "halo",
-    "rest-api",
-    "api-client",
-    "sdk"
-  ],
   "maintainers": [
     {
-      "name": "guqing",
-      "email": "1484563614@qq.com",
-      "url": "https://github.com/guqing"
+      "name": "lizc",
+      "email": "lizc@fists.cn",
+      "url": "https://github.com/mtraders"
     }
   ],
   "license": "MIT",
