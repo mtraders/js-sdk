@@ -1,6 +1,6 @@
 {
   "name": "@mtraders/js-sdk",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Packages for Halo JavaScript SDK.",
   "private": true,
   "scripts": {
